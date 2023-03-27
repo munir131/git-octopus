@@ -1,0 +1,8 @@
+total 12
+drwxr-xr-x 1 munir munir  62 Mar 27 18:54 .
+drwxr-xr-x 1 munir munir 614 Mar 27 18:40 ..
+-rw-r--r-- 1 munir munir   6 Mar 27 18:52 a.txt
+-rw-r--r-- 1 munir munir  16 Mar 27 18:52 b.txt
+drwxr-xr-x 1 munir munir 162 Mar 27 18:54 .git
+-rw-r--r-- 1 munir munir   0 Mar 27 18:54 lsla.txt
+-rw-r--r-- 1 munir munir  67 Mar 27 18:42 README.md
