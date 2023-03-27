@@ -1,0 +1,5 @@
+total 12K
+-rw-r--r-- 1 munir munir  6 Mar 27 18:52 a.txt
+-rw-r--r-- 1 munir munir 16 Mar 27 18:52 b.txt
+-rw-r--r-- 1 munir munir  0 Mar 27 18:53 ll.txt
+-rw-r--r-- 1 munir munir 67 Mar 27 18:42 README.md
